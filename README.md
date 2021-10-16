@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Ian. 👋</h1>
+<h3 align="center">A passionate Front-End developer from Taipei, Taiwan</h3>
+
+build website with React / node.
+- 💬 Chinese, English
+- 📫 How to reach me ianhsu0116@gmail.com
+
+## Languages and Tools:
+HTHL, CSS, JS, React, NodeJS, PHP, MongoDB, MySQL, npm, Bootstrap, Git, Postman
+
 
 <!--
 **ianhsu0116/ianhsu0116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
