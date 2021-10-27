@@ -6,7 +6,6 @@ build website with React / node.
 - 📫 How to reach me ianhsu0116@gmail.com
 
 ## Languages and Tools:
-HTHL, CSS, JS, React, JQuery, NodeJS, PHP, MongoDB, MySQL, npm, Scss, Bootstrap, Git, Postman
 <img src="https://user-images.githubusercontent.com/82724318/139090270-850615d3-15c7-49e1-a117-4a5f09d9ef1b.png" alt="HTML5" width="50"/>
 <img src="https://user-images.githubusercontent.com/82724318/139090414-f8b0d55e-fd0d-47c3-8450-a331a33303eb.png" alt="CSS3" width="50"/>
 <img src="https://user-images.githubusercontent.com/82724318/139090800-1154c8ac-74b8-4c12-9684-9b3665860808.png" alt="JS" width="50"/>
