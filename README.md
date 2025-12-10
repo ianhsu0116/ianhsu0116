@@ -8,7 +8,7 @@ I’m currently looking for graduate / junior roles (and internships) in New Zea
 
 ### 🔧 Recent Work
 
-- **Latest personal project:** [`aws-apigw-jwt-auth`](https://www.npmjs.com/package/aws-apigw-jwt-auth)  
+- **Latest personal open-source project:** [`aws-apigw-jwt-auth`](https://www.npmjs.com/package/aws-apigw-jwt-auth)  
   A small helper library to make it easier to work with JWT-based auth in AWS API Gateway + Lambda.
 
 ---
